@@ -1,0 +1,7 @@
+[package]
+name = "workspace-manager"
+version = "0.0.1"
+authors = ["NewOag"]
+build = "build.rs"
+
+[dependencies]
